@@ -7,3 +7,5 @@ Am following Youtube and Codedex lessons
 Adding these lines so sarah can see how edits look on VSCode.
 
 These are edits proposed to the main README.md (showing sarah how different branches work).
+
+random edits
